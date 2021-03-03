@@ -263,7 +263,7 @@ c.NotebookApp.extra_nbextensions_path = ['/Users/a097123/.jupyter/nbextensions']
 #c.NotebookApp.nbserver_extensions = {}
 
 ## The directory to use for notebooks and kernels.
-c.NotebookApp.notebook_dir = '/Users/a097123'
+# c.NotebookApp.notebook_dir = '/Users/a097123'
 
 ## Whether to open in a browser after starting. The specific browser used is
 #  platform dependent and determined by the python standard library `webbrowser`
@@ -289,7 +289,7 @@ c.NotebookApp.notebook_dir = '/Users/a097123'
 #c.NotebookApp.password_required = False
 
 ## The port the notebook server will listen on.
-c.NotebookApp.port = 9000
+# c.NotebookApp.port = 9000
 
 ## The number of additional ports to try if the specified port is not available.
 #c.NotebookApp.port_retries = 50

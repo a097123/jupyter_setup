@@ -1,0 +1,13 @@
+{
+  "Notebook": {
+    "Toolbar": false
+  },
+  "load_extensions": {
+    "runselected/main": true
+  },
+  "Cell": {
+    "cm_config": {
+      "lineNumbers": true
+    }
+  }
+}

@@ -165,7 +165,7 @@
 #c.NotebookApp.enable_mathjax = True
 
 ## extra paths to look for Javascript notebook extensions
-c.NotebookApp.extra_nbextensions_path = ['/Users/a097123/.jupyter/nbextensions']
+c.NotebookApp.extra_nbextensions_path = ['~/.jupyter/nbextensions']
 
 ## handlers that should be loaded at higher priority than the default services
 #c.NotebookApp.extra_services = []
